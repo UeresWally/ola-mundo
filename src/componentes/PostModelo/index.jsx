@@ -16,7 +16,6 @@ export default function PostModelo({ children, fotoCapa, titulo}) {
 
         <div className={styles.postConteudoContainer}>
             {children}
-
         </div>
     </article>
   )
